@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/21963291/132996929-de472b2a-f6fe-40c8-88c6-d23cb8cf3439.png" />
 
-# Solidity - Smart Contracts
+<h1 style="text-align:center">Solidity - Smart Contracts<h1/>
 
 This repository was created for studies about smart contracts using the solidity language
 
